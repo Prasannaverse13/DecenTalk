@@ -56,7 +56,6 @@ Then to run the development server:
 ```bash
  npm run dev
 ```
-Open http://localhost:5173 and you'll be able to see the page appear.
 
 ## Features Completed
 
