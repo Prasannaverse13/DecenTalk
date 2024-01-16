@@ -18,7 +18,7 @@ interface for users.
 
 ## Tech Stack
 
-React.JS, Gun.JS, Tailwind CSS, Framer Motion, Google
+React.JS, Angular.JS, Tailwind CSS, Framer Motion, Google
 Cloud Translation API, Perspective API (ML
 library to identify "toxic" contents),
 MetaMask Wallet Integration, GitHub,
